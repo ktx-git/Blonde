@@ -1,7 +1,7 @@
 name = "Blonde"
 license = "MIT"
 licenselink = "https://github.com/ktx-git/Blonde/blob/master/LICENSE"
-description = "Blonde, A simple theme using Tailwind CSS"
+description = "Fork of Blonde, A simple theme using Tailwind CSS"
 homepage = "https://github.com/ktx-git/Blonde"
 tags = ["blog", "minimal", "light", "dark", "simple", "clean", "tailwindcss", "personal", "responsive"]
 features = ["blog"]
@@ -9,4 +9,4 @@ min_version = "0.54"
 
 [author]
   name = "wamo + ktx"
-  homepage = "https://wmsci.com"
+  homepage = "https://ktx.oblab.com"
